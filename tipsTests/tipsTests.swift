@@ -2,8 +2,8 @@
 //  tipsTests.swift
 //  tipsTests
 //
-//  Created by Lucian Boboc on 17/09/14.
-//  Copyright (c) 2014 blend.la. All rights reserved.
+//  Created by Alex Tau on 17/09/14.
+//  Copyright (c) 2014 King Ginger Studio All rights reserved.
 //
 
 import UIKit
